@@ -17,7 +17,7 @@ This project focuses on executing advanced packet forensics and traffic analysis
 The purpose of this module is to investigate live network captures, reconstruct multi-layered communications, isolate malicious footprints, and extract operational intelligence from unencrypted data packages. The entire series was completed with an **Outstanding 100/100 marks** evaluation.
 
 <p align="center">
-  <img src="images/certificate.png" alt="Lab 8 Completion Certificate 100% Score" width="60%">
+  <img src="Lab 8 Result - Okon Inemesit Udo.png" alt="Lab 8 Completion Certificate 100% Score" width="60%">
 </p>
 
 ---
