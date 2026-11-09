@@ -2,12 +2,11 @@
 
 Building a network analysis framework to investigate attackers, recover hidden data, and secure unencrypted communication channels.
 
-![Skill Cybersecurity](https://shields.io)
-![Ver Wireshark v4.x](https://shields.io)
-![Skill Network Forensics](https://shields.io)
-![Network VoIP / HTTP / TCP](https://shields.io)
-![Platform NetworkWalks](https://shields.io)
-![OKON Inemesit Udo](https://shields.io)
+<p align="center">
+  <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/NetworkWalks-404040?style=flat-square&labelColor=C00000" />
+   <img src="https://img.shields.io/badge/OKON%20Inemesit%20Udo-C00000?style=flat-square" />
+</p>
 
 ---
 
@@ -18,7 +17,7 @@ This project focuses on executing advanced packet forensics and traffic analysis
 The purpose of this module is to investigate live network captures, reconstruct multi-layered communications, isolate malicious footprints, and extract operational intelligence from unencrypted data packages. The entire series was completed with an **Outstanding 100/100 marks** evaluation.
 
 <p align="center">
-  <img src="YOUR_IMAGE_PATH_HERE/image_jHGlQv.png" alt="Lab 8 Completion Certificate 100% Score" width="60%">
+  <img src="images/certificate.png" alt="Lab 8 Completion Certificate 100% Score" width="60%">
 </p>
 
 ---
@@ -46,7 +45,7 @@ Inspecting the packet details inside the message header revealed the explicit id
 * **Recipient Target:** Sara (`sip:202@192.168.10.52`)
 
 <p align="center">
-  <img src="YOUR_IMAGE_PATH_HERE/image_s2u_uI.png" alt="Wireshark SIP Display Filter and Message Header Analysis" width="90%">
+  <img src="images/sip_analysis.png" alt="Wireshark SIP Display Filter and Message Header Analysis" width="90%">
 </p>
 
 ### 2. Stream Audio Reconstruction (RTP)
@@ -57,7 +56,7 @@ The call utilizes the standard `G.711 PCMU` audio codec distributed over two con
 * **Reverse Stream:** `192.168.10.52:18000` ➔ `192.168.10.45:16384`
 
 <p align="center">
-  <img src="YOUR_IMAGE_PATH_HERE/image_6LypK2.png" alt="Wireshark RTP Player Audio Stream Playback" width="90%">
+  <img src="images/rtp_player.png" alt="Wireshark RTP Player Audio Stream Playback" width="90%">
 </p>
 
 ### 3. Exfiltrated Evidence Extraction
