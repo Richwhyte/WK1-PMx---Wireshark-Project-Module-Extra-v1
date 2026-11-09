@@ -45,7 +45,7 @@ Inspecting the packet details inside the message header revealed the explicit id
 * **Recipient Target:** Sara (`sip:202@192.168.10.52`)
 
 <p align="center">
-  <img src="images/sip_analysis.png" alt="Wireshark SIP Display Filter and Message Header Analysis" width="90%">
+  <img src="lab8.png" alt="Wireshark SIP Display Filter and Message Header Analysis" width="90%">
 </p>
 
 ### 2. Stream Audio Reconstruction (RTP)
