@@ -56,7 +56,7 @@ The call utilizes the standard `G.711 PCMU` audio codec distributed over two con
 * **Reverse Stream:** `192.168.10.52:18000` ➔ `192.168.10.45:16384`
 
 <p align="center">
-  <img src="images/rtp_player.png" alt="Wireshark RTP Player Audio Stream Playback" width="90%">
+  <img src="Screenshot 2026-11-09 111026.png" alt="Wireshark RTP Player Audio Stream Playback" width="90%">
 </p>
 
 ### 3. Exfiltrated Evidence Extraction
